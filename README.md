@@ -20,12 +20,6 @@ goto [compose-to-easypanel.netlify.app](https://compose-to-easypanel.netlify.app
 4. `yarn dev`
 5. the app should now be available on [localhost:3000](http://localhost:3000)
 
-### CLI
-
-```sh
-npx compose-to-easypanel <project_name> -i <docker-compose.yml> -o <schema-output-file.json>
-```
-
 ## Example
 
 Creating an Mysql application with Adminer as Dashboard
